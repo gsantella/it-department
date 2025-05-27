@@ -1,0 +1,6 @@
+ip address :192.168.70.105
+Base Memory: 2048 MB
+Processors: 2
+RAM: 4.00 GB
+Storage 100 GB
+Services: DNS

@@ -1,0 +1,7 @@
+ip address :192.168.70.103
+Base Memory: 4096 MB
+Processors: 2
+RAM: 3.98 GB
+Storage 99.2 GB
+Services: 
+VirtualBox Guest Additions
