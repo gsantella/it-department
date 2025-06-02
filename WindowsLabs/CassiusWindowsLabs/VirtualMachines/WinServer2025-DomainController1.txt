@@ -1,9 +1,8 @@
-ip address :192.168.70.100
+IP Address: 192.168.70.100
 Base Memory: 4096 MB
 Processors: 2
 RAM: 4.00 GB
 Storage 100 GB
 Services: 
 Active Directory Domain Services(ADDS), 
-DNS, 
 VirtualBox Guest Additions
