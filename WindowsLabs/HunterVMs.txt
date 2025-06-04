@@ -2,7 +2,7 @@ VMs in Windows Lab:
 
 "WinServer2025 - DOMAIN CONTROLLER"
 Original Domain Controller
-    OS: Windows Server 2025
+    OS: Windows Server 2025 (Desktop)
     Memory: 4GB / 4096MB RAM
     Processor Cores: 2
     Video Memory: 128MB
@@ -23,7 +23,7 @@ Original Domain Controller
 
 "TestServer2"
 Duplicate Domain Controller
-    OS: Windows Server 2025
+    OS: Windows Server 2025 (Desktop)
     Memory: 4GB / 4096MB RAM
     Processor Cores: 2
     Video Memory: 128MB
@@ -47,14 +47,10 @@ Duplicate Domain Controller
     Memory: 4GB / 4096MB RAM
     Processor Cores: 2
     Video Memory: 128MB
-    Disk 0 (C:): 86.27GB
-    (R:): 10GB
-        Disk 1: 5GB (RAID 5)
-        Disk 2: 5GB (RAID 5)
-        Disk 3: 5GB (RAID 5)
-    IP Address:
+    Disk 0 (C:): 100GB
+    IP Address:172.17.115.103
     Subnet Mask: 255.255.255.0
-    Primary DNS Server:
+    Primary DNS Server: 192.168.60.100
     Network Adapter Type: Bridged Adapter
     Roles:
         Workstation
@@ -65,10 +61,10 @@ Duplicate Domain Controller
     Memory: 2GB / 2048MB RAM
     Processor Cores: 2
     Video Memory: 128MB
-    Disk 0 (C:): 
-    IP Address: 
+    Disk 0: 100GB
+    IP Address: 192.168.60.105
     Subnet Mask: 255.255.255.0
-    DNS Server: 
+    DNS Server: 192.168.60.100
     Network Adapter Type: Bridged Adapter
     Roles:
         Web Server
